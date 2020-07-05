@@ -16,4 +16,4 @@ def print(students)
   students.each do |student|
     puts "#{student[0]} (#{student[1]} cohort)"
   end
-end 
+end
